@@ -26,7 +26,7 @@ Controls:
 ## Credits
 
 * Nick Nannen: Created all assets, sounds, code, and designed game mechanics and
-	       premise.
+	       premise excluding the statecraft code which was created by Dr. James Palmer.
 
 *DISCLAIMER* This game 'Shadow Runner' is the property of Nick Nannen and may not be used outside of
 	     NAU course CS413 unless specifically given permission by Nick Nannen. Any
