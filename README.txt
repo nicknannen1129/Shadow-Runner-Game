@@ -1,8 +1,6 @@
-# Project 4
-
 ## Title: 'Shadow Runner'
 
-## Instructions
+## Overview and Controls:
 
 Become the Shadow Runner and survive as long as you can while shooting
 down drones and avoiding their deadly laser fire! Find some cover if your
