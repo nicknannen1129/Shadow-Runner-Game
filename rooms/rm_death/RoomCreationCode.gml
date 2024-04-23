@@ -1,3 +1,4 @@
+window_set_fullscreen(true);
 audio_stop_all();
 
 if( global.total_enemies_defeated > global.highscore )
