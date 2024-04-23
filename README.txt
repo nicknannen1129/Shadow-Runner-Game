@@ -1,8 +1,6 @@
-# Project 4
-
 ## Title: 'Shadow Runner'
 
-## Instructions
+## Overview and Controls:
 
 Become the Shadow Runner and survive as long as you can while shooting
 down drones and avoiding their deadly laser fire! Find some cover if your
@@ -26,7 +24,7 @@ Controls:
 ## Credits
 
 * Nick Nannen: Created all assets, sounds, code, and designed game mechanics and
-	       premise.
+	       premise excluding the statecraft code which was created by Dr. James Palmer.
 
 *DISCLAIMER* This game 'Shadow Runner' is the property of Nick Nannen and may not be used outside of
 	     NAU course CS413 unless specifically given permission by Nick Nannen. Any
