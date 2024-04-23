@@ -20,6 +20,9 @@ Controls:
 
 * Enemy AI will sometimes get stuck if there is an object between them
   and the player.
+* Game needs a "Quit" button on title screen to quit to desktop. Currently,
+  the game starts in fullscreen and there is no way to minimize or close game without
+  using the Windows key to go to Windows start menu.
 
 ## Credits
 
